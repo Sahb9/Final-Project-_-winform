@@ -309,6 +309,7 @@
             this.Controls.Add(this.label1);
             this.Name = "FormThongTin";
             this.Text = "FormThongTin";
+            this.Load += new System.EventHandler(this.FormThongTin_Load);
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
             this.guna2Panel1.ResumeLayout(false);
             this.guna2Panel1.PerformLayout();

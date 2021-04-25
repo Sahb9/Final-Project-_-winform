@@ -36,5 +36,10 @@ namespace Ung_Dung_moi
         {
 
         }
+
+        private void FormThongTin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
